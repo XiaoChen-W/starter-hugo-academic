@@ -17,7 +17,7 @@ publication_short: The 2022 Conference of the North American Chapter of the
   (NAACL). Accepted; to appear.
 url_source: ""
 url_video: ""
-title: Sentence-Level Resampling for Named Entity Recognition.
+title: Sentence-Level Resampling for Named Entity Recognition
 doi: ""
 featured: false
 tags: []

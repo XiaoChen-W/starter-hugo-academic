@@ -14,10 +14,10 @@ education:
   courses:
     - course: M.S. in Information Science
       institution: University of North Carolina at Chapel Hill, U.S.A.
-      year: ""
+      year: 2022
     - course: B.Eng. in Automation
       institution: Central South University, China
-      year: -3
+      year: 2020
 email: xcwang@email.unc.edu
 superuser: true
 highlight_name: true

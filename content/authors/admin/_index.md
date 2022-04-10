@@ -1,49 +1,24 @@
 ---
 title: Xiaochen Wang
 role: Incoming PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - Data Mining
+  - Natural Language Processing
+  - Health Informatics
+social: []
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of North Carolina at Chapel Hill
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MS in Information Science
+      institution: University of North Carolina at Chapel Hill
+      year: 2021
+    - course: BEng in Automation
+      institution: Central South University
+      year: 2019
+email: xcwang@email.unc.edu
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My name is Xiaochen Wang. I am a second-year master student majoring in Information Science at University of North Carolina at Chapel Hill. Before that, I received my Bachelor Degree in Automation at Central South University, China. My research interests include Natural Language Processing, Health Informatics and Machine Learning. I am currently working for Renaissance Computing Institute(RENCI) as a Graduate Research Assisitant, focusing on enhancing neuroscientist-oriented search engine using information extraction techniques.

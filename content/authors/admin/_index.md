@@ -1,7 +1,7 @@
 ---
 title: Xiaochen Wang
 role: Incoming PhD Student
-avatar_filename: 微信图片_20220410170700.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Data Mining

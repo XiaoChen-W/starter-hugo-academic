@@ -28,7 +28,7 @@ content:
    #   captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xcwang [ AT ] email.unc.edu
+  email: xmw5190 [ AT ] psu.edu
   # phone: 888 888 88 88
   # address:
   #  street: 450 Serra Mall

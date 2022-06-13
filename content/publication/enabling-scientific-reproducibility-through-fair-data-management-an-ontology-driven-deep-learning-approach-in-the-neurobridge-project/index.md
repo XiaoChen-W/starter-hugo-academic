@@ -15,6 +15,8 @@ authors:
   - Matthew D. Turner
   - Lei Wang
   - Satya S. Sahoo
+publication_short: American Medical Informatics Association 2022 Annual
+  Symposium (AMIA). Accepted. To appear
 draft: false
 featured: false
 image:

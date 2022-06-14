@@ -1,6 +1,6 @@
 ---
 title: " Enabling Scientific Reproducibility through FAIR Data Management: An
-  ontology-driven deep learning approach in the NeuroBridge Project. "
+  ontology-driven deep learning approach in the NeuroBridge Project"
 publication_types:
   - "1"
 authors:

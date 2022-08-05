@@ -12,9 +12,9 @@ publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: The 2022 Conference of the North American Chapter of the
-  Association for Computational Linguistics - Human Language Technologies,
-  (NAACL). Accepted; to appear
+publication_short: "The 2022 Conference of the North American Chapter of the
+  Association for Computational Linguistics - Human Language Technologies
+  (NAACL) (pp. 2151-2165). "
 url_source: ""
 url_video: ""
 title: Sentence-Level Resampling for Named Entity Recognition

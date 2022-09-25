@@ -14,7 +14,7 @@ education:
   courses:
     - course: Ph.D. in Informatics
       institution: The Pennsylvania State University
-      year: 2027
+      year: ""
     - course: M.S. in Information Science
       institution: University of North Carolina at Chapel Hill, U.S.A.
       year: 2022

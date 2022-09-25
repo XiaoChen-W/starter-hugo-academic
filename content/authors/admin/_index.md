@@ -25,3 +25,7 @@ highlight_name: true
 My name is Xiaochen Wang. I am now pursuing my PhD degree in Informatics at Pennsylvania State University under the supervision of Dr. Fenglong Ma. Before that, I received my Master Degree in Information Science at University of North Carolina at Chapel Hill, supervised by Dr. Yue Wang, and my Bachelor Degree in Automation at Central South University, China, supervised by Dr. Fan Guo. 
 
 My research interests include Natural Language Processing, Health Informatics and Data Mining. I will combine them with cutting-edge researches in the field of multimodal learning in the next year.
+
+
+
+H﻿ere's my [CV](https://drive.google.com/file/d/1QJO7o-lPX6P3VRG_7kCi0jeW4yaaKkXy/view?usp=sharing)[](https://drive.google.com/file/d/1QJO7o-lPX6P3VRG_7kCi0jeW4yaaKkXy/view?usp=sharing)

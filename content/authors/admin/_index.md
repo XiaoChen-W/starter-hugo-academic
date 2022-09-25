@@ -18,6 +18,9 @@ education:
     - course: B.Eng. in Automation
       institution: Central South University, China
       year: 2020
+    - course: Ph.D. in Informatics
+      institution: The Pennsylvania State University
+      year: 2027
 email: xmw5190@psu.edu
 superuser: true
 highlight_name: true
